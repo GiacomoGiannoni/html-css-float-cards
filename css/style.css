@@ -40,6 +40,5 @@ main {
     float: left;
     width: calc(100% / 3);
     text-align: center;
-    background-color: black;
-    
+    background-color: black; 
 }
